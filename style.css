@@ -1,4 +1,9 @@
 *, *::after, *::before{
     font-style:italic;
     text-align: center;
+    color: #fff;
+}
+
+body{
+    background-color: #1e1e1e;
 }
