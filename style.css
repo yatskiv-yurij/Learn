@@ -1,4 +1,4 @@
-h1{
+*, *::after, *::before{
     font-style:italic;
     text-align: center;
 }
